@@ -1,6 +1,10 @@
 # DIGHUM101
 
-This is the repository for DIGHUM101 (Summer 2018). 
+This is the repository for DIGHUM101 (Summer 2018).  
+
+Learn more about the Berkeley Digital Humanities Summer Minor: https://summerdigitalhumanities.berkeley.edu/  
+
+Lear more about the Digital Humanities at Berkeley: http://dh.berkeley.edu/  
 
 Remember to:
 
