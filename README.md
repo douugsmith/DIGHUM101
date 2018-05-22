@@ -11,7 +11,7 @@ Remember to:
 3)
 pip install datascience  
 pip install matplotlib  
-pip install numpy
+pip install numpy  
 pip install nltk  
 pip install sklearn  
 pip install NetworkX  
