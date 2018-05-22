@@ -8,7 +8,7 @@ Remember to:
 
 2) Windows users only: install Git/GitBash: https://git-scm.com/downloads
 
-3) Open Terminal (Mac) or GitBash (Windows) and type the following commands:
+3) Open Terminal (Mac) or GitBash (Windows) and type the following commands:  
 pip install datascience  
 pip install matplotlib  
 pip install numpy  
