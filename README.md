@@ -14,11 +14,13 @@ Remember to:
 
 3) Open Terminal (Mac) or GitBash (Windows) and type the following commands:  
 pip install datascience  
-pip install matplotlib  
-pip install numpy  
+pip install geopandas  
+pip install networkx  
 pip install nltk  
+pip install numpy  
+pip install matplotlib  
+pip install pandas  
 pip install sklearn  
-pip install NetworkX  
 
 These materials were compiled from the following D-Lab workshops:
 - Python FUN!damentals  
