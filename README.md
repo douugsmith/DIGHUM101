@@ -22,6 +22,8 @@ pip install matplotlib
 pip install pandas  
 pip install sklearn  
 
+(remember you can pip install packages inside of a notebook using `!pip` install _package name_.  
+
 These materials were compiled from the following D-Lab workshops:
 - Python FUN!damentals  
 - Computational Text Analysis  
