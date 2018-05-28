@@ -22,7 +22,7 @@ pip install matplotlib
 pip install pandas  
 pip install sklearn  
 
-(remember you can pip install packages inside of a notebook using `!pip` install _package name_.  
+(remember you can pip install packages inside of a notebook using **`!pip install package_name`**  
 
 These materials were compiled from the following D-Lab workshops:
 - Python FUN!damentals  
