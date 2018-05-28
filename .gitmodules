@@ -1,3 +1,6 @@
 [submodule "Week2/2-1_htrc_ctawg"]
 	path = Week2/2-1_htrc_ctawg
 	url = https://github.com/chennesy/htrc-ctawg.git
+[submodule "Week2/2-1_htrc_ctawg/htrc-ctawg"]
+	path = Week2/2-1_htrc_ctawg/htrc-ctawg
+	url = https://github.com/chennesy/htrc-ctawg.git
