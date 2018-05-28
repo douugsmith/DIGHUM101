@@ -1,1 +1,1 @@
-Remember that the materials for part 2 of this week can be found in the notebook "1-4_WorkingWithStrings.ipynb"
+Remember that the materials for part 2 of this week can be found in the Week1 notebook "1-4_WorkingWithStrings.ipynb"
